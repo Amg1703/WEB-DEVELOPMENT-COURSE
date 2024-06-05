@@ -8,6 +8,7 @@ What to Expect:
 🌐 Comprehensive Coverage: From HTML and CSS to advanced topics like RESTful APIs and database management, this course leaves no stone unturned in equipping you with the skills needed to build dynamic web applications from scratch.
 
 📚 Structured Curriculum: Follow a step-by-step roadmap that mirrors the progression of skills and knowledge acquired during my internship. Each module builds upon the last, ensuring a smooth and logical learning journey.
+
 Get Started:
 
 📖 Clone the Repository: Get instant access to all course materials by cloning this repository to your local machine.
